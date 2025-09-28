@@ -4,7 +4,7 @@ import json
 
 # --- Configuration ---
 # IMPORTANT: Replace with your own Riot API key. Remember it expires every 24 hours!
-API_KEY = "RGAPI-dfe85d89-b53c-4131-a2c4-3bb1b660dffe" 
+API_KEY = "RGAPI-REPLACE" 
 # The region to query. See Riot API docs for all available regions.
 # Americas routing value for match-v5 is 'americas', Europe is 'europe', Asia is 'asia'
 REGION_V4 = "na1"  # North America for league-v4, summoner-v4
